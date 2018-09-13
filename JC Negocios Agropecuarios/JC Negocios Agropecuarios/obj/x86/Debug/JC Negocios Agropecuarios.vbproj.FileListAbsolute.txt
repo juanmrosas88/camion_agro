@@ -1,0 +1,65 @@
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.exe
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.pdb
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.xml
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmMenuPrinc.resources
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.vbproj.GenerateResource.Cache
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.exe
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.xml
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.pdb
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmDistanciayprecio.resources
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmIngresoCamion.resources
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmEstadisticas_totales.resources
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\INSTITUTO SUPERIOR\Downloads\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.exe
+C:\Users\INSTITUTO SUPERIOR\Downloads\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.xml
+C:\Users\INSTITUTO SUPERIOR\Downloads\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.pdb
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.exe
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.xml
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.pdb
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.exe
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.pdb
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.xml
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmEstadisticas_totales.resources
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmDistanciayprecio.resources
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmMenuPrinc.resources
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmIngresoCamion.resources
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Juan Rosas\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmListadoTransportistas.resources
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmListadoTransportistas.resources
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmCotizacion.resources
+D:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmCargarusuariosnuevos.resources
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.exe
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.xml
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.pdb
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.exe
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.pdb
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.xml
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmCargarusuariosnuevos.resources
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmCotizacion.resources
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmDistanciayprecio.resources
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmMenuPrinc.resources
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.vbproj.GenerateResource.Cache
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmIngresoTransportistas.resources
+E:\Documents\JUAN Desarrollo de software\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmListadoGeneral.resources
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.exe
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.xml
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.pdb
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.exe
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.pdb
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\bin\Debug\JC Negocios Agropecuarios.xml
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmCargarusuariosnuevos.resources
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmCotizacion.resources
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmDistanciayprecio.resources
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmMenuPrinc.resources
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmIngresoTransportistas.resources
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmListadoGeneral.resources
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\JMRR\Desktop\JUAN Desarrollo de soft\a--Primer año\TRABAJOS VISUALBASIC\JC Negocios Agropecuarios\JC Negocios Agropecuarios\obj\x86\Debug\JC Negocios Agropecuarios.vbproj.GenerateResource.Cache
